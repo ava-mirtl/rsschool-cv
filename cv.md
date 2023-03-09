@@ -19,3 +19,32 @@ I am 30 years old, I had working as a paramedic and nurse during 10 years. Than 
 - Team playing
 - Strong motivation
 - Never give up
+  > **Keep learning...**
+
+# Skills
+
+- HTML5
+- CSS (Flex, Grid, Bootstrap, Sass, BEM)
+- JavaScript (ES6), Typescript
+- React (hooks)
+- Redux
+- Material Ui, AntDesign
+- Git/GitHub
+- Agile
+- Trello, Jira, Bitrix
+- Figma, Photoshop
+
+# Code Examples
+
+```
+const onSearch = (value) =>{
+        if (!value){
+          setData (products)
+        }
+        else{
+          const result = products.filter ((el) =>
+          el.name.name.toLowerCase().includes(value.toLowerCase()));
+          setData(result)
+        }
+      }
+```
