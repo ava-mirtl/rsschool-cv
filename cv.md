@@ -48,3 +48,18 @@ const onSearch = (value) =>{
         }
       }
 ```
+
+# Education
+
+- **Belarussian State Medical College**
+  - Medical Faculty
+
+* **ITGIRLSCHOOL**
+  - Frontend (JS, React)
+
+# Languages
+
+- **Russian** - native speaker
+- **Belarussian** - B2
+- **English** - B1
+- **Polish** - A1
